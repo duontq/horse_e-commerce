@@ -1,1 +1,1 @@
-# horse_e-commerce
+# Horse e-commerce
